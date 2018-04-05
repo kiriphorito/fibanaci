@@ -1,4 +1,4 @@
-# fibanaci
+
 fibanaci=[]
 
 pre_Value = 0
